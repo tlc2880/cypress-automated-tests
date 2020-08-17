@@ -1,0 +1,7 @@
+{
+  "projectId": "7q28pw",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+      "configFile": "reporter-config.json"
+  }
+}
