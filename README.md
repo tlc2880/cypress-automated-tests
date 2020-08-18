@@ -1,7 +1,7 @@
 # Name: Tommy Cao
 # Date: 8/15/20
 # Description: Cypress e2e testing of the "Tommy's Burritos" website
-# https://tlc2880-react-testing-library.netlify.app/
+# https://tlc2880-burritos-cypress-e2e-testing.netlify.app/
 
 # Description: Cypress e2e testing of the gevh react filter website
 # https://react-gevh-ui.netlify.app/
