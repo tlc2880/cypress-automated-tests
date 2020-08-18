@@ -6,7 +6,7 @@
 
 describe('E2E Test', () => {
     it('Verify buttons', () => {
-        cy.visit('https://tlc2880-react-testing-library.netlify.app') // Visit URL
+        cy.visit('https://tlc2880-burritos-cypress-e2e-testing.netlify.app/') // Visit URL
         cy.title().should('eq', "Tommy's Burritos - RTL") // Verify URL shuld include
 
         cy.get("[data-testid='add-item-1']").click()
