@@ -6,6 +6,9 @@
 # Description: Cypress e2e testing of the gevh react filter website
 # https://react-gevh-ui.netlify.app/
 
+# Description: Cypress e2e testing of the react tictactoe game website
+# https://tlc2880-react-tictactoe-e2e-test.netlify.app/
+
 # npm install
 # >.\node_modules\.bin\cypress open
 # >.\node_modules\.bin\cypress run
