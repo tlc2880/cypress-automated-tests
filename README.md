@@ -12,3 +12,5 @@
 # npm install
 # >.\node_modules\.bin\cypress open
 # >.\node_modules\.bin\cypress run
+
+# Screenshots and video of application
